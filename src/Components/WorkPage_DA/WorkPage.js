@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./WorkPage.css";
-import { projects } from "./WorkList";
+import { projects } from "./WorkList_DA";
 import {
   FiChevronRight,
   FiChevronLeft,

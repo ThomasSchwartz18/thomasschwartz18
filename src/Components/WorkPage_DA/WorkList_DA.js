@@ -1,5 +1,5 @@
 import NBA_Trends from "../../assets/images/projects/NBA_Trends.png";
-import Biodiversity from "../../assets/images/projects/Biodiversity.png";
+import Biodiversity from "../../assets/images/projects/Biodiversity.jpg";
 
 export const projects = [
   {
