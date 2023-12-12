@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/thomasschwartz18/static/css/main.6b623124.css",
-    "main.js": "/thomasschwartz18/static/js/main.2a347ee0.js",
+    "main.css": "/thomasschwartz18/static/css/main.17d8965f.css",
+    "main.js": "/thomasschwartz18/static/js/main.9aa6ce0d.js",
     "static/media/Munch.png": "/thomasschwartz18/static/media/Munch.c31822514fe402cdecdd.png",
     "static/media/ColmarAcademy.png": "/thomasschwartz18/static/media/ColmarAcademy.fe58e73e00b25c36ae32.png",
     "static/media/SouthVillageRun.png": "/thomasschwartz18/static/media/SouthVillageRun.c3641d4d7a364338c619.png",
-    "static/media/Webflow layout level 1.png": "/thomasschwartz18/static/media/Webflow layout level 1.e147aacad1d9a3ff238e.png",
-    "static/media/Webflow layout level 2.png": "/thomasschwartz18/static/media/Webflow layout level 2.bc1b470d5a5f03ac0eec.png",
     "static/media/AppleRemake.png": "/thomasschwartz18/static/media/AppleRemake.de69edc4e1ef79bd37ea.png",
     "static/media/CodExplore.png": "/thomasschwartz18/static/media/CodExplore.8752acf19471388cd4ff.png",
     "static/media/Biodiversity.jpg": "/thomasschwartz18/static/media/Biodiversity.6da82af72b89c1e2f7c5.jpg",
@@ -17,16 +15,19 @@
     "static/media/Code Foundations-1.png": "/thomasschwartz18/static/media/Code Foundations-1.0f5a8a2443b758de0a97.png",
     "static/media/Learn CSS-1.png": "/thomasschwartz18/static/media/Learn CSS-1.599c5258ca7cfb67e7dc.png",
     "static/media/PHPContactPage.png": "/thomasschwartz18/static/media/PHPContactPage.1b3571aa8dbc1e4b73a7.png",
+    "static/media/MicrosoftCert.png": "/thomasschwartz18/static/media/MicrosoftCert.44082b1f2bd58aff8054.png",
     "static/media/Learn HTML-1.png": "/thomasschwartz18/static/media/Learn HTML-1.4abff82ec6102a476705.png",
     "static/media/Learn how to code-1.png": "/thomasschwartz18/static/media/Learn how to code-1.5f0f8cd19e42c8226c3c.png",
+    "static/media/Learn SQL.png": "/thomasschwartz18/static/media/Learn SQL.bf3d3bdd0beb0660dbdd.png",
+    "static/media/Data Science Foundations.png": "/thomasschwartz18/static/media/Data Science Foundations.e34d67dcf97e0b1ff3b5.png",
     "static/media/UI UX design intro-1.png": "/thomasschwartz18/static/media/UI UX design intro-1.3d4ca2cf3c0089ee235f.png",
     "static/media/Learn-React.png": "/thomasschwartz18/static/media/Learn-React.d4a03f09bf2a07fb3d40.png",
     "index.html": "/thomasschwartz18/index.html",
-    "main.6b623124.css.map": "/thomasschwartz18/static/css/main.6b623124.css.map",
-    "main.2a347ee0.js.map": "/thomasschwartz18/static/js/main.2a347ee0.js.map"
+    "main.17d8965f.css.map": "/thomasschwartz18/static/css/main.17d8965f.css.map",
+    "main.9aa6ce0d.js.map": "/thomasschwartz18/static/js/main.9aa6ce0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b623124.css",
-    "static/js/main.2a347ee0.js"
+    "static/css/main.17d8965f.css",
+    "static/js/main.9aa6ce0d.js"
   ]
 }
