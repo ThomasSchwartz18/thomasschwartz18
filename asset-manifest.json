@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/thomasschwartz18/static/css/main.29dc37d6.css",
-    "main.js": "/thomasschwartz18/static/js/main.f952a309.js",
+    "main.css": "/thomasschwartz18/static/css/main.454782b0.css",
+    "main.js": "/thomasschwartz18/static/js/main.2a347ee0.js",
     "static/media/Munch.png": "/thomasschwartz18/static/media/Munch.c31822514fe402cdecdd.png",
     "static/media/ColmarAcademy.png": "/thomasschwartz18/static/media/ColmarAcademy.fe58e73e00b25c36ae32.png",
     "static/media/SouthVillageRun.png": "/thomasschwartz18/static/media/SouthVillageRun.c3641d4d7a364338c619.png",
@@ -9,6 +9,8 @@
     "static/media/Webflow layout level 2.png": "/thomasschwartz18/static/media/Webflow layout level 2.bc1b470d5a5f03ac0eec.png",
     "static/media/AppleRemake.png": "/thomasschwartz18/static/media/AppleRemake.de69edc4e1ef79bd37ea.png",
     "static/media/CodExplore.png": "/thomasschwartz18/static/media/CodExplore.8752acf19471388cd4ff.png",
+    "static/media/Biodiversity.jpg": "/thomasschwartz18/static/media/Biodiversity.6da82af72b89c1e2f7c5.jpg",
+    "static/media/NBA_Trends.png": "/thomasschwartz18/static/media/NBA_Trends.a95fc93a4fd7ea8eb20c.png",
     "static/media/Learn PHP.jpg": "/thomasschwartz18/static/media/Learn PHP.3867e3ccc3cd04e24067.jpg",
     "static/media/WeConnect.png": "/thomasschwartz18/static/media/WeConnect.4f6fdfad181a737e02e6.png",
     "static/media/Build websites using github pages-1.png": "/thomasschwartz18/static/media/Build websites using github pages-1.9b6f128e7c6fcd2cd9b7.png",
@@ -20,11 +22,11 @@
     "static/media/UI UX design intro-1.png": "/thomasschwartz18/static/media/UI UX design intro-1.3d4ca2cf3c0089ee235f.png",
     "static/media/Learn-React.png": "/thomasschwartz18/static/media/Learn-React.d4a03f09bf2a07fb3d40.png",
     "index.html": "/thomasschwartz18/index.html",
-    "main.29dc37d6.css.map": "/thomasschwartz18/static/css/main.29dc37d6.css.map",
-    "main.f952a309.js.map": "/thomasschwartz18/static/js/main.f952a309.js.map"
+    "main.454782b0.css.map": "/thomasschwartz18/static/css/main.454782b0.css.map",
+    "main.2a347ee0.js.map": "/thomasschwartz18/static/js/main.2a347ee0.js.map"
   },
   "entrypoints": [
-    "static/css/main.29dc37d6.css",
-    "static/js/main.f952a309.js"
+    "static/css/main.454782b0.css",
+    "static/js/main.2a347ee0.js"
   ]
 }
