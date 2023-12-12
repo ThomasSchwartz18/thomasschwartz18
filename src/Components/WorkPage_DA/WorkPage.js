@@ -7,7 +7,7 @@ import {
   FiArrowRightCircle,
 } from "react-icons/fi";
 
-class WorkPage extends Component {
+class WorkPage_DA extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -40,7 +40,7 @@ class WorkPage extends Component {
 
     return (
       <div className="photo-gallery" id="work">
-        <h2>WORK.</h2>
+        <h2>DATA ANALYST CASE STUDIES.</h2>
         <div className="slider">
           <button className="photo-btn1" onClick={this.goToNextSlide}>
             <i aria-hidden="true">
@@ -92,4 +92,4 @@ class WorkPage extends Component {
   }
 }
 
-export default WorkPage;
+export default WorkPage_DA;

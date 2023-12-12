@@ -12,7 +12,7 @@ class WelcomePage extends Component {
     return (
       <div className="welcome-page-container">
         <h1>
-          HELLO, <br></br> I'M A WEB DEVELOPER.
+          HELLO, <br></br> I'M A DATA ANALYST.
         </h1>
         <a href="#contact" onClick={this.handleClick}>
           Let's get in touch

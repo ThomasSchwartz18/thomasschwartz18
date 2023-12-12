@@ -1,0 +1,185 @@
+.photo-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: #4b7844;
+  padding: 0 45px;
+  height: 100vh;
+}
+
+h2 {
+  font-family: "Fjalla One", sans-serif;
+  color: #f2eddc;
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.slider {
+  display: flex;
+}
+
+.on-slide {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  padding: 10px 35px;
+}
+
+.photo-gallery-img {
+  width: 70%;
+  height: auto;
+}
+
+.project-description {
+  width: 30%;
+  margin-left: 20px;
+}
+
+.on-slide h3 {
+  color: #f2eddc;
+  font-size: 1.75rem;
+  padding-bottom: 20px;
+}
+
+.on-slide p {
+  color: #f2eddc;
+  padding: 10px 0 10px 0;
+}
+
+.underline {
+  border-bottom: 1px solid #f2eddc;
+}
+
+.description {
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.project-description a {
+  display: flex;
+  align-items: center;
+  color: #d2ee15;
+  text-decoration: none;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-family: "Inter", sans-serif;
+}
+
+.project-description a span {
+  margin-left: 5px;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-gallery button {
+  cursor: pointer;
+  color: #f2eddc;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  padding: 0;
+}
+
+.photo-gallery button:hover {
+  color: #f2eddcc3;
+}
+
+.photo-gallery button:active {
+  color: #ffffff;
+}
+
+.arrow {
+  color: #f2eddc;
+  font-size: 70px;
+}
+
+.photo-btn3,
+.photo-btn4 {
+  display: none;
+}
+
+@media screen and (max-width: 450px) {
+  .photo-gallery {
+    padding: 0 10px;
+  }
+
+  .slider {
+    width: 100%;
+  }
+
+  .photo-gallery-img {
+    width: 100%;
+  }
+
+  .photo-btn1,
+  .photo-btn2 {
+    display: none;
+  }
+  .photo-btn3,
+  .photo-btn4 {
+    display: flex;
+  }
+  .photo-btn3 i,
+  .photo-btn4 i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #d2ee15;
+  }
+
+  .arrow2 {
+    color: #d2ee15;
+  }
+
+  .slider {
+    flex-direction: column;
+  }
+
+  .on-slide {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .project-description {
+    width: 100%;
+    margin: 0;
+  }
+
+  .on-slide h3 {
+    font-size: 1.25rem;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .underline {
+    font-size: 0.75rem;
+    width: 100%;
+  }
+
+  .description {
+    display: none;
+  }
+
+  .on-slide a {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    padding: 10px 0 10px 0;
+  }
+
+  .project-description a span {
+    margin-left: 5px;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mobile-btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
