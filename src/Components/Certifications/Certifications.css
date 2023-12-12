@@ -1,0 +1,186 @@
+@keyframes moveInFromRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.certification-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: #4b7844;
+  padding: 0 45px;
+  height: auto;
+}
+
+.project-list {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.project {
+  width: 48%;
+  border-top: 1px solid #f2eddc;
+  color: #f2eddc;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+}
+
+.project h3 {
+  font-size: 1.25rem;
+  margin: 4px 0 6px 0;
+}
+
+.project p {
+  font-size: 0.9rem;
+  margin: 2px 0 3px 0;
+}
+
+.project .img-container {
+  position: absolute;
+  width: 40%;
+  top: 211.75vh;
+  height: 401px;
+  right: 30px;
+}
+
+.project:hover {
+  border-top: 1px solid #d2ee15;
+  cursor: pointer;
+  color: #d2ee15;
+}
+
+.project-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+}
+
+li:first-child:hover .img-container {
+  background-image: url(../../assets/images/certificates/Code\ Foundations-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(2):hover .img-container {
+  background-image: url(../../assets/images/certificates/UI\ UX\ design\ intro-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(3):hover .img-container {
+  background-image: url(../../assets/images/certificates/Build\ websites\ using\ github\ pages-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(4):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn\ CSS-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(5):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn\ HTML-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(6):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn\ how\ to\ code-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(7):hover .img-container {
+  background-image: url(../../assets/images/certificates/Webflow\ layout\ level\ 1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(8):hover .img-container {
+  background-image: url(../../assets/images/certificates/Webflow\ layout\ level\ 2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(9):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn-React.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(10):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn\ PHP.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+.certImg {
+  width: 40%;
+}
+
+.certImg img {
+  width: 100%;
+}
+
+@media screen and (max-width: 450px) {
+  .certification-container {
+    padding: 0 10px;
+    width: 100%;
+  }
+  .project-list {
+    width: 100%;
+  }
+  .project-list-container {
+    width: 100%;
+  }
+  .project {
+    width: 95%;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+  }
+  .project .img-container {
+    display: none;
+  }
+  .certImg {
+    display: none;
+  }
+  .project h3 {
+    font-size: 1rem;
+    margin: 4px 0 6px 0;
+  }
+  .project p {
+    font-size: 0.75rem;
+    margin: 2px 0 3px 0;
+  }
+}

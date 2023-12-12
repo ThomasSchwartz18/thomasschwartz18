@@ -1,0 +1,169 @@
+.contact-container {
+  background: #0f2d0a;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 45px;
+  height: 120vh;
+}
+
+.contact--container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 65%;
+}
+
+input {
+  border: 2px solid #f2eddc;
+  background: transparent;
+  padding: 20px 15px;
+  margin: 7px;
+}
+
+input,
+select,
+textarea {
+  color: #f2eddc;
+}
+
+.your-name-container {
+  width: 43%;
+}
+
+#name::placeholder {
+  color: #f2eddc;
+}
+
+#email::placeholder {
+  color: #f2eddc;
+}
+
+#phone::placeholder {
+  color: #f2eddc;
+}
+
+#subject::placeholder {
+  color: #f2eddc;
+}
+
+#message::placeholder {
+  color: #f2eddc;
+}
+
+.email-container {
+  width: 43%;
+}
+
+.phone-container {
+  width: 43%;
+}
+
+.subject-container {
+  width: 43%;
+}
+
+.message-container {
+  background: transparent;
+  border: 2px solid #f2eddc;
+  padding: 20px 15px;
+  margin: 7px;
+  width: 91.5%;
+  height: 200px;
+}
+
+.submit {
+  display: flex;
+  align-items: center;
+  color: #d2ee15;
+  text-decoration: none;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  font-family: "Inter", sans-serif;
+  background: transparent;
+  border: none;
+  margin-left: 7px;
+  cursor: pointer;
+}
+
+.submit span {
+  margin-left: 5px;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-button {
+  background: transparent;
+  color: #f2eddc;
+  border: none;
+  margin: 20vh 0 20vh 0;
+  display: flex;
+  flex-wrap: nowrap;
+  cursor: pointer;
+}
+
+.top-button span {
+  margin-left: 5px;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 450px) {
+  .contact-container {
+    padding: 10px 10px;
+    height: auto;
+    width: auto;
+  }
+
+  .your-name-container {
+    width: 90%;
+  }
+
+  .contact--container {
+    width: 100%;
+  }
+
+  .email-container {
+    width: 90%;
+  }
+
+  .phone-container {
+    width: 90%;
+  }
+
+  .subject-container {
+    width: 90%;
+  }
+
+  .message-container {
+    background: transparent;
+    border: 2px solid #f2eddc;
+    padding: 20px 15px;
+    margin: 7px;
+    width: 90%;
+    height: 200px;
+  }
+
+  .submit {
+    display: flex;
+    align-items: center;
+    color: #d2ee15;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1rem;
+    margin-left: 7px;
+    overflow: hidden;
+  }
+
+  .submit span {
+    margin-left: 5px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
