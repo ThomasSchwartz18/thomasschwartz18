@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/thomasschwartz18/static/css/main.17d8965f.css",
-    "main.js": "/thomasschwartz18/static/js/main.9aa6ce0d.js",
+    "main.css": "/thomasschwartz18/static/css/main.a8725b83.css",
+    "main.js": "/thomasschwartz18/static/js/main.ee6e4d10.js",
     "static/media/Munch.png": "/thomasschwartz18/static/media/Munch.c31822514fe402cdecdd.png",
     "static/media/ColmarAcademy.png": "/thomasschwartz18/static/media/ColmarAcademy.fe58e73e00b25c36ae32.png",
     "static/media/SouthVillageRun.png": "/thomasschwartz18/static/media/SouthVillageRun.c3641d4d7a364338c619.png",
-    "static/media/AppleRemake.png": "/thomasschwartz18/static/media/AppleRemake.de69edc4e1ef79bd37ea.png",
+    "static/media/Appleremake.png": "/thomasschwartz18/static/media/Appleremake.de69edc4e1ef79bd37ea.png",
     "static/media/CodExplore.png": "/thomasschwartz18/static/media/CodExplore.8752acf19471388cd4ff.png",
     "static/media/Biodiversity.jpg": "/thomasschwartz18/static/media/Biodiversity.6da82af72b89c1e2f7c5.jpg",
     "static/media/NBA_Trends.png": "/thomasschwartz18/static/media/NBA_Trends.a95fc93a4fd7ea8eb20c.png",
     "static/media/Learn PHP.jpg": "/thomasschwartz18/static/media/Learn PHP.3867e3ccc3cd04e24067.jpg",
+    "static/media/Data Science Analytics.png": "/thomasschwartz18/static/media/Data Science Analytics.df8828baace934a2b04c.png",
     "static/media/WeConnect.png": "/thomasschwartz18/static/media/WeConnect.4f6fdfad181a737e02e6.png",
     "static/media/Build websites using github pages-1.png": "/thomasschwartz18/static/media/Build websites using github pages-1.9b6f128e7c6fcd2cd9b7.png",
     "static/media/Code Foundations-1.png": "/thomasschwartz18/static/media/Code Foundations-1.0f5a8a2443b758de0a97.png",
@@ -23,11 +24,11 @@
     "static/media/UI UX design intro-1.png": "/thomasschwartz18/static/media/UI UX design intro-1.3d4ca2cf3c0089ee235f.png",
     "static/media/Learn-React.png": "/thomasschwartz18/static/media/Learn-React.d4a03f09bf2a07fb3d40.png",
     "index.html": "/thomasschwartz18/index.html",
-    "main.17d8965f.css.map": "/thomasschwartz18/static/css/main.17d8965f.css.map",
-    "main.9aa6ce0d.js.map": "/thomasschwartz18/static/js/main.9aa6ce0d.js.map"
+    "main.a8725b83.css.map": "/thomasschwartz18/static/css/main.a8725b83.css.map",
+    "main.ee6e4d10.js.map": "/thomasschwartz18/static/js/main.ee6e4d10.js.map"
   },
   "entrypoints": [
-    "static/css/main.17d8965f.css",
-    "static/js/main.9aa6ce0d.js"
+    "static/css/main.a8725b83.css",
+    "static/js/main.ee6e4d10.js"
   ]
 }
