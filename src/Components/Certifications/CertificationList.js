@@ -4,12 +4,32 @@ import BuildWithGit from "../../assets/images/certificates/Build websites using 
 import LearnCSS from "../../assets/images/certificates/Learn CSS-1.png";
 import LearnHTML from "../../assets/images/certificates/Learn HTML-1.png";
 import LearnHowToCode from "../../assets/images/certificates/Learn how to code-1.png";
-import WebflowExam1 from "../../assets/images/certificates/Webflow layout level 1.png";
-import WebflowExam2 from "../../assets/images/certificates/Webflow layout level 2.png";
+import DataScienceFoundations from "../../assets/images/certificates/Data Science Foundations.png";
+import LearnSQL from "../../assets/images/certificates/Learn SQL.png";
 import LearnReact from "../../assets/images/certificates/Learn-React.png";
 import LearnPHP from "../../assets/images/certificates/Learn PHP.jpg";
+import MicrosoftCert from "../../assets/images/certificates/MicrosoftCert.png";
+import DataScienceAnalytics from "../../assets/images/certificates/Data Science Analytics.png";
 
 export const CertificationList = [
+  {
+    image: DataScienceAnalytics,
+    title: "Data Science: Analytics Career Path",
+    company: "Codecademy",
+    year: "2023",
+  },
+  {
+    image: MicrosoftCert,
+    title: "Microsoft Excel Associate",
+    company: "Microsoft",
+    year: "2019",
+  },
+  {
+    image: LearnSQL,
+    title: "Learn SQL",
+    company: "Codecademy",
+    year: "2023",
+  },
   {
     image: CodeFoundations,
     title: "Code Foundations",
@@ -44,18 +64,6 @@ export const CertificationList = [
     image: LearnHowToCode,
     title: "Learn How to Code Course",
     company: "Codecademy",
-    year: "2022",
-  },
-  {
-    image: WebflowExam1,
-    title: "Webflow Layout Certification 1",
-    company: "Webflow",
-    year: "2022",
-  },
-  {
-    image: WebflowExam2,
-    title: "Webflow Layout Certification 2",
-    company: "Webflow",
     year: "2022",
   },
   {

@@ -47,7 +47,7 @@
 .project .img-container {
   position: absolute;
   width: 40%;
-  top: 423vh;
+  top: 310vh;
   height: 401px;
   right: 30px;
 }
@@ -65,7 +65,7 @@
 }
 
 li:first-child:hover .img-container {
-  background-image: url(../../assets/images/certificates/Code\ Foundations-1.png);
+  background-image: url(../../assets/images/certificates/Data\ Science\ Analytics.png.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -73,7 +73,7 @@ li:first-child:hover .img-container {
 }
 
 li:nth-child(2):hover .img-container {
-  background-image: url(../../assets/images/certificates/UI\ UX\ design\ intro-1.png);
+  background-image: url(../../assets/images/certificates/MicrosoftCert.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -81,7 +81,7 @@ li:nth-child(2):hover .img-container {
 }
 
 li:nth-child(3):hover .img-container {
-  background-image: url(../../assets/images/certificates/Build\ websites\ using\ github\ pages-1.png);
+  background-image: url(../../assets/images/certificates/Learn\ SQL.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -89,7 +89,7 @@ li:nth-child(3):hover .img-container {
 }
 
 li:nth-child(4):hover .img-container {
-  background-image: url(../../assets/images/certificates/Learn\ CSS-1.png);
+  background-image: url(../../assets/images/certificates/Code\ Foundations-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -97,7 +97,7 @@ li:nth-child(4):hover .img-container {
 }
 
 li:nth-child(5):hover .img-container {
-  background-image: url(../../assets/images/certificates/Learn\ HTML-1.png);
+  background-image: url(../../assets/images/certificates/UI\ UX\ design\ intro-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -105,7 +105,7 @@ li:nth-child(5):hover .img-container {
 }
 
 li:nth-child(6):hover .img-container {
-  background-image: url(../../assets/images/certificates/Learn\ how\ to\ code-1.png);
+  background-image: url(../../assets/images/certificates/Build\ websites\ using\ github\ pages-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -113,7 +113,7 @@ li:nth-child(6):hover .img-container {
 }
 
 li:nth-child(7):hover .img-container {
-  background-image: url(../../assets/images/certificates/Webflow\ layout\ level\ 1.png);
+  background-image: url(../../assets/images/certificates/Learn\ CSS-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -121,7 +121,7 @@ li:nth-child(7):hover .img-container {
 }
 
 li:nth-child(8):hover .img-container {
-  background-image: url(../../assets/images/certificates/Webflow\ layout\ level\ 2.png);
+  background-image: url(../../assets/images/certificates/Learn\ HTML-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -129,7 +129,7 @@ li:nth-child(8):hover .img-container {
 }
 
 li:nth-child(9):hover .img-container {
-  background-image: url(../../assets/images/certificates/Learn-React.png);
+  background-image: url(../../assets/images/certificates/Learn\ how\ to\ code-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -137,6 +137,14 @@ li:nth-child(9):hover .img-container {
 }
 
 li:nth-child(10):hover .img-container {
+  background-image: url(../../assets/images/certificates/Learn-React.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: moveInFromRight 0.5s ease-in-out;
+}
+
+li:nth-child(11):hover .img-container {
   background-image: url(../../assets/images/certificates/Learn\ PHP.jpg);
   background-size: contain;
   background-repeat: no-repeat;
